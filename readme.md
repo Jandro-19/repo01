@@ -21,9 +21,15 @@ Hemos hecho un ***git push*** desde terminal y nos ha dado error fatal
 ![text](img/img7.png)
 ### ​​​​🔁​ Git remote -v ¿Porque no sale nada?
 Despues de hacer el comando ***git remote -v*** y ver que no sale nada he buscado información para encontrar el porque, y he encontrado que la ***-v*** es para mostrar las URL's de los repositorios remotos, los cuales aun no tenemos.
-### Crear repositorio remoto
+### ​​​​​🌀​ Crear repositorio remoto
 Este paso es un paso realmente sencillo, solo hay que hacer 2 cosas:
 1. Crear el repositorio remoto en GitHub
    ![text](img/img8.png)
 2. Poner los 3 comandos que te indica Github
    ![text](img/img9.png)
+### ​​​​​📲​ Subir snapshot local a remoto
++ El primer paso que he hecho ha sido hacer un  ***git add.*** para subir los cambios a la raiz, luego un ***git commit -m*** para guardar los cambios, y para acabar un ***git pull*** y un ***git push*** finalmente para subirlo a Github.
++ ![text](img/img10.png)
+
+
+# FINAL
